@@ -1,0 +1,100 @@
+05a6a84 HEAD@{0}: checkout: moving from bump to 05a6a84
+9d99092 HEAD@{1}: checkout: moving from master to bump
+05a6a84 HEAD@{2}: reset: moving to origin/master
+9d99092 HEAD@{3}: checkout: moving from bump to master
+9d99092 HEAD@{4}: checkout: moving from master to bump
+9d99092 HEAD@{5}: cherry-pick: Bump dependencies to latest
+05a6a84 HEAD@{6}: checkout: moving from bump to master
+2f0446e HEAD@{7}: checkout: moving from master to bump
+05a6a84 HEAD@{8}: checkout: moving from master to master
+05a6a84 HEAD@{9}: commit (amend): Add donation information
+0312027 HEAD@{10}: commit (amend): Add donation information
+d16846f HEAD@{11}: checkout: moving from d16846fa3c388becaaf855052be0c9cf1dcc4337 to master
+d16846f HEAD@{12}: checkout: moving from master to HEAD^1
+fdbeb3d HEAD@{13}: checkout: moving from d16846fa3c388becaaf855052be0c9cf1dcc4337 to master
+d16846f HEAD@{14}: checkout: moving from master to HEAD^1
+fdbeb3d HEAD@{15}: commit (amend): Bump dependencies to latest
+4f128c9 HEAD@{16}: commit (amend): Bump dependencies to latest
+e11967a HEAD@{17}: checkout: moving from bump to master
+2f0446e HEAD@{18}: commit (amend): Bump dependencies to latest
+e11967a HEAD@{19}: checkout: moving from master to bump
+e11967a HEAD@{20}: commit (amend): Bump dependencies to latest
+3307a4c HEAD@{21}: commit (amend): Bump dependencies to latest
+2a27b71 HEAD@{22}: cherry-pick: Bump dependencies to latest
+d16846f HEAD@{23}: reset: moving to origin/master
+cecb4cf HEAD@{24}: cherry-pick: Bump dependencies to latest
+c1760a4 HEAD@{25}: reset: moving to origin/master
+f340aed HEAD@{26}: checkout: moving from bump to master
+f340aed HEAD@{27}: checkout: moving from master to bump
+f340aed HEAD@{28}: commit (amend): Bump dependencies to latest
+ab2453f HEAD@{29}: commit (cherry-pick): Bump dependencies to latest
+c1760a4 HEAD@{30}: checkout: moving from bump to master
+cde8bcb HEAD@{31}: checkout: moving from master to bump
+c1760a4 HEAD@{32}: reset: moving to origin/master
+5391220 HEAD@{33}: commit (amend): Add donation information
+c1760a4 HEAD@{34}: checkout: moving from dbx-tlmtry to master
+4761247 HEAD@{35}: rebase (finish): returning to refs/heads/dbx-tlmtry
+4761247 HEAD@{36}: rebase (pick): Added fail-safe
+2ecf9c6 HEAD@{37}: rebase (pick): Added blocking of Dropbox Telemetry
+c1760a4 HEAD@{38}: rebase (start): checkout master
+595a320 HEAD@{39}: checkout: moving from bump to dbx-tlmtry
+cde8bcb HEAD@{40}: commit (amend): Bump dependencies to latest
+cdef5bd HEAD@{41}: commit (amend): Bump dependencies to latest
+d6ee7a9 HEAD@{42}: commit (amend): Bump dependencies to latest
+7f00e3f HEAD@{43}: checkout: moving from master to bump
+c1760a4 HEAD@{44}: commit (amend): Add donation information
+58ef506 HEAD@{45}: checkout: moving from bump to master
+7f00e3f HEAD@{46}: commit (amend): Bump dependencies to latest
+4384f19 HEAD@{47}: commit (amend): Bump dependencies to latest
+df7db5f HEAD@{48}: checkout: moving from master to bump
+58ef506 HEAD@{49}: reset: moving to origin/master
+e5fc2fc HEAD@{50}: checkout: moving from bump to master
+df7db5f HEAD@{51}: commit (amend): Bump dependencies to latest
+db4fc75 HEAD@{52}: checkout: moving from master to bump
+e5fc2fc HEAD@{53}: commit: Add donation information
+112e79a HEAD@{54}: commit (amend): Fix Microsoft Defender alert for uninstaller #114
+226a100 HEAD@{55}: commit (amend): Fix Microsoft Defender alert for uninstaller #114
+6643d95 HEAD@{56}: commit (amend): Fix Microsoft Defender alert for uninstaller #114
+e8588f1 HEAD@{57}: commit (amend): Fix Microsoft Defender alert for uninstaller #114
+a1d6efb HEAD@{58}: commit (amend): Fix Microsoft Defender alert for uninstaller #114
+31bcc76 HEAD@{59}: commit (amend): Fix Microsoft Defender alert for NSIS uninstaller $114
+078677c HEAD@{60}: commit (amend): Fix Microsoft Defender alert for NSIS uninstaller $114
+6f2832d HEAD@{61}: commit (amend): Fix Microsoft Defender alert for NSIS uninstaller $114
+229ca51 HEAD@{62}: commit (amend): Fix Microsoft Defender alert for NSIS uninstaller $114
+65fa867 HEAD@{63}: cherry-pick: Fix Microsoft Defender alert for NSIS uninstaller $114
+eeb1d5b HEAD@{64}: checkout: moving from defender to master
+e906a63 HEAD@{65}: checkout: moving from master to defender
+eeb1d5b HEAD@{66}: checkout: moving from cli5 to master
+c0b5d25 HEAD@{67}: checkout: moving from master to cli5
+eeb1d5b HEAD@{68}: commit (amend): Refactor to use version object #59
+5d3d860 HEAD@{69}: commit (amend): Refactor to use version object #59
+f8d6302 HEAD@{70}: checkout: moving from defender to master
+e906a63 HEAD@{71}: checkout: moving from master to defender
+f8d6302 HEAD@{72}: commit (amend): Refactor to use version object $59
+0e2a14c HEAD@{73}: commit (amend): Refactor to use version object $59
+c13ac6f HEAD@{74}: commit (amend): Refactor to use version object $59
+78ce5a8 HEAD@{75}: commit (cherry-pick): Refactor to use version object $59
+d6bc33e HEAD@{76}: checkout: moving from version to master
+c31260e HEAD@{77}: checkout: moving from master to version
+d6bc33e HEAD@{78}: reset: moving to d6bc33ec865d50efc6b8d4ccc2f789edd874fcee
+d6bc33e HEAD@{79}: checkout: moving from version to master
+c31260e HEAD@{80}: checkout: moving from master to version
+d6bc33e HEAD@{81}: checkout: moving from fixwinversion to master
+0af1c57 HEAD@{82}: checkout: moving from master to fixwinversion
+d6bc33e HEAD@{83}: reset: moving to d6bc33ec865d50efc6b8d4ccc2f789edd874fcee
+d6bc33e HEAD@{84}: checkout: moving from fixwinversion to master
+0af1c57 HEAD@{85}: checkout: moving from defender to fixwinversion
+e906a63 HEAD@{86}: commit (amend): Fix Microsoft Defender alert for NSIS uninstaller $114
+61f8e43 HEAD@{87}: checkout: moving from master to defender
+d6bc33e HEAD@{88}: commit (amend): Fix Windows 11 being detected as Windows 10
+848b21d HEAD@{89}: checkout: moving from defender to master
+61f8e43 HEAD@{90}: commit: Fix Windows Defender false positive for uninstaller
+848b21d HEAD@{91}: checkout: moving from master to defender
+848b21d HEAD@{92}: checkout: moving from fixwinversion to master
+0af1c57 HEAD@{93}: checkout: moving from version to fixwinversion
+c31260e HEAD@{94}: checkout: moving from fixwinversion to version
+0af1c57 HEAD@{95}: checkout: moving from master to fixwinversion
+848b21d HEAD@{96}: cherry-pick: Fix Windows 11 being detected as Windows 10
+956052c HEAD@{97}: checkout: moving from bump to master
+db4fc75 HEAD@{98}: commit (amend): Bump dependencies to latest
+695fa64 HEAD@{99}: checkout: moving from master to bump
